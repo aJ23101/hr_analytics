@@ -83,7 +83,3 @@ pip install pandas numpy matplotlib seaborn sqlalchemy psycopg2-binary
 
 ---
 
-## 📄 Dataset
-
-This project uses the publicly available **HRDataset_v14** dataset for educational and portfolio purposes.
-
